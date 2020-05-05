@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="сохранить">save</string>
+    <string name="activity_notes">Записная книжка</string>
+</resources>
